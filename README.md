@@ -22,6 +22,7 @@
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="right" alt="Matheus-Manjiro" height="128" width="128" src="https://cdn.discordapp.com/attachments/732623193046646936/877591924209487872/manjiro.gif">
 </div>
 
 ##
