@@ -9,8 +9,8 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/mathstylish">
-    <img height="193.8em" src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&   count_private=true"/>
-    <img heigth="223em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
 </div>
 
