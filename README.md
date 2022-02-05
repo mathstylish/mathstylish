@@ -8,6 +8,7 @@
 
 <div style="display: flex; width: 100%; justify-content: space-between">
   <div>
+    <a href="https://github.com/mathstylish">
     <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
     <img style="width: 40%"src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
