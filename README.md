@@ -8,8 +8,8 @@
 
 <div style="display: flex; width: 100%; justify-content: space-between">
   <div>
-    <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img style="width: 100%"src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img style="width: 50%"src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
 </div>
 
