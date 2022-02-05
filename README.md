@@ -7,7 +7,7 @@
 ##
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; align-items: flex-start; justify-content: space-between;">
     <a href="https://github.com/mathstylish">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
