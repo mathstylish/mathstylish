@@ -6,11 +6,12 @@
 
 ##
 
-<div style="display: flex;justify-content: space-between;align-items: center;">
-  <div style="flex: 1 1 auto">
-    <a href="https://github.com/mathstylish">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div style="display:flex">
+  <div style="flex: 50%">
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathstylish&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+  <div style="flex: 50%">
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=mathstylish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
 </div>
 
