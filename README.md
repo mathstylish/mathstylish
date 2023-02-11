@@ -1,13 +1,30 @@
-<h1 align="center"> Hi there, i'm Matheus 👋</h1>
-<h3>Curious, researcher, with great will and ease of learning. I also like helping other people because I test myself and still contribute to other people's learning.</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  
+  <div id="badges">
+     <a href="https://www.linkedin.com/in/matheus3t" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" arget="_blank"></a>
+    <a href = "mailto:matheus.hpp135@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://discord.gg/DcfM9zM3cv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=mathstylish&style=flat-square&color=blue" alt="" />
+  
+  <h1> Hi there, i'm Matheus 👋</h1>
+ 
+</div>
 
-<h2>Languages, frameworks, libs and tools: </h2>
+### 👨‍💻 About Me:
+Curious, researcher, with great will and ease of learning. I also like helping other people because I test myself and still contribute to other people's learning.
+
+---
+
+### 🛠️ Languages and Tools:
 <div style="display: inline_block"><br>
   <img href="https://www.java.com/" target="_blank" align="center" alt="java-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img href="https://www.typescriptlang.org/" target="_blank" align="center" alt="ts-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" align="center" alt="c-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img href="https://www.lua.org/" target="_blank" align="center" alt="lua-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img href="https://spring.io/projects/spring-boot" target="_blank" align="center" alt="spring-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img href="https://spring.io/projects/spring-boot" target="_blank" align="center" alt="spring-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-watermark.svg" />
   <img href="https://expressjs.com/" target="_blank" align="center" alt="express-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img href="https://reactjs.org/" target="_blank" align="center" alt="react-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank" align="center" alt="linux-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
