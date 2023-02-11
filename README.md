@@ -49,9 +49,3 @@ Curious, researcher, with great will and ease of learning. I also like helping o
   </a>
 </div>
 
-##
-  
-<div>
-  
-![Snake animation](https://github.com/mathstylish/mathstylish/blob/output/github-contribution-grid-snake.svg)
-</div>
