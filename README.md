@@ -1,7 +1,7 @@
 ### Hi there, i'm Matheus Henrique 👋 🇧🇷
 
-- 🌱 Learning Javascript, Typescript, English and Vim
-- 🤩 I like to play FPS and Moba games, watch anime, training martial arts and read books about technologies and of course, code!!
+- 🌱 Learning Spring Framework and Docker
+- 🤩 I love studying subjects in depth and knowing exactly or at least having a good idea of what I'm using
 - 💻 <img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
 
 ##
