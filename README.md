@@ -14,7 +14,7 @@
 </div>
 
 ### 👨‍💻 Sobre mim
-Iniciei no desenvolvimento junto a minha graduação e desde então venho estudando e experimentando diversas linguagens e ferramentas e me divirto com isso. Possuo foco em desenvolvimento com **Java** e **Spring Boot** e atualmente estou aprofudando meus conhecimentos em **Node.JS** também voltado para o Back-End. No meu tempo livre aprimoro minhas habilidades em **HTML** e **CSS** para possíveis necessidades e tento contribuir para a comunidade do meu editor favorito, o Neovim, que utiliza Lua e DWM que utiliza C.
+Iniciei no desenvolvimento junto a minha graduação e desde então venho estudando e experimentando diversas linguagens e ferramentas. Possuo foco em desenvolvimento com **Java** e **Spring Boot** e atualmente estou aprofudando meus conhecimentos em **Node.JS** também voltado para o Back-End. No meu tempo livre aprimoro minhas habilidades em **HTML** e **CSS** para possíveis necessidades e tento contribuir para a comunidade do meu editor favorito, o Neovim, que utiliza Lua e DWM que utiliza C.
 
 Me considero uma pessoa ágil e resiliente em aprender novas linguagens/ferramentas, me adaptando rapidamente a qualquer mudança e pronto para superar qualquer desafio!
 Se eu pudesse me definir em 3 palavras: **Otimista**, **perseverante** e **curioso**! 😄
