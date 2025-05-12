@@ -13,13 +13,6 @@
  
 </div>
 
-### 👨‍💻 Sobre mim
-Iniciei no desenvolvimento junto a minha graduação e desde então venho estudando e experimentando diversas linguagens e ferramentas. Possuo foco em desenvolvimento com **Java** e **Spring Boot** e atualmente estou aprofudando meus conhecimentos em **Node.JS** também voltado para o Back-End. No meu tempo livre aprimoro minhas habilidades em **HTML** e **CSS** para possíveis necessidades e tento contribuir para a comunidade do meu editor favorito, o Neovim, que utiliza Lua e DWM que utiliza C.
-
-Me considero uma pessoa ágil e resiliente em aprender novas linguagens/ferramentas, me adaptando rapidamente a qualquer mudança e pronto para superar qualquer desafio!
-Se eu pudesse me definir em 3 palavras: **Otimista**, **perseverante** e **curioso**! 😄
-##
-
 ### 🛠️ Habilidades
 <div style="display: inline_block">
   <img href="https://www.java.com/" target="_blank" align="center" alt="java-logo" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
